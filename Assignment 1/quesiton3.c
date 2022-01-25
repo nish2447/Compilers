@@ -3,6 +3,16 @@ Write a program that counts the number constants in the program. Constant
 can be integer, float, character or string (literal).
 */
 
+/*  B-15 Group Members
+
+BT19CSE087  Ashok Karwa
+BT19CSE088  Shiv Kumar Sakhre
+BT19CSE136  Nischay Yadav
+BT19CSE137  Rudransh Tripathi
+
+*/
+
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <string.h>

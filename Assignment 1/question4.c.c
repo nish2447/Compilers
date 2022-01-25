@@ -1,3 +1,17 @@
+/*
+Write a program to count the number of newlines in the program
+*/
+
+/*  B-15 Group Members
+
+BT19CSE087  Ashok Karwa
+BT19CSE088  Shiv Kumar Sakhre
+BT19CSE136  Nischay Yadav
+BT19CSE137  Rudransh Tripathi
+
+*/
+
+
 #include<stdio.h>
 #include<stdbool.h>
 #include<stdlib.h>

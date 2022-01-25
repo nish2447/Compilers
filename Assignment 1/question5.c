@@ -3,6 +3,16 @@ Simulate a DFA that recognizes an unsigned number
 */
 
 
+/*  B-15 Group Members
+
+BT19CSE087  Ashok Karwa
+BT19CSE088  Shiv Kumar Sakhre
+BT19CSE136  Nischay Yadav
+BT19CSE137  Rudransh Tripathi
+
+*/
+
+
 #include<stdio.h>
 #include<ctype.h>
 char digits[] = "0123456789";

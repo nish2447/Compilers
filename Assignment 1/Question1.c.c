@@ -1,3 +1,19 @@
+/*
+. Write a program that will count the total number of identifiers in the
+program and will also display the identifiers in the program. (Simulate the
+DFA that recognizes an identifier)
+*/
+
+
+/*  B-15 Group Members
+
+BT19CSE087  Ashok Karwa
+BT19CSE088  Shiv Kumar Sakhre
+BT19CSE136  Nischay Yadav
+BT19CSE137  Rudransh Tripathi
+
+*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
